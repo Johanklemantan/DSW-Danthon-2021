@@ -4,7 +4,7 @@
 
 #### Make sure to download the dataset <a href='https://www.kaggle.com/c/danthon2021/data'>here</a> before running my code. The dataset is too big to be uploaded here.
 
-__This model is able to predict with f1 score of 65,21 % and ranked top 32% of the total contestants.__
+__This model is able to predict the jammed correctly with f1 score of 65,21 % and ranked top 32% of the total contestants.__
 
 ### This dataset consist of 4 files.
 - Train (70k++ rows)
