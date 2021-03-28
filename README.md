@@ -1,6 +1,10 @@
 # DSW-Danthon-2021
-## Make sure to download the dataset here before running my code. The dataset is too big to be uploaded here.
-This model is able to predict with f1 score of 65,21 % and ranked top 32% of the total contestants.
+
+<img src='https://awsimages.detik.net.id/community/media/visual/2020/06/02/f72b4381-76f5-431d-b00b-1990fcc0461a_169.jpeg?w=700&q=90'>
+
+#### Make sure to download the dataset <a href='https://www.kaggle.com/c/danthon2021/data'>here</a> before running my code. The dataset is too big to be uploaded here.
+
+__This model is able to predict with f1 score of 65,21 % and ranked top 32% of the total contestants.__
 
 ### This dataset consist of 4 files.
 - Train (70k++ rows)
@@ -56,6 +60,8 @@ We are using 5 models to compare, which are :
 
 F1 Score Before Tuning :
 
+<img src='Result1.PNG'>
+
 #### Hence, we tried to do hyperparameter tuning on Random Forest, Decision Tree, and Naive Bayes
 
 F1 Score after tuning result :
@@ -71,8 +77,9 @@ F1 Score after tuning result :
 
 
 For you who wants to try this problem, you can get the dataset here : 
-<a href:'https://www.kaggle.com/c/danthon2021/data'>Kaggle</a>
+<a href='https://www.kaggle.com/c/danthon2021/data'>Kaggle</a>
 
-Thankyou for reading !
-Happy Coding
+### Thankyou for reading !
+
+# Happy Coding
 
